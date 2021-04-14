@@ -1,6 +1,6 @@
 # dijkstra-and-dwa
 #### Basic
 **__How to run file__**
-> python main_dijkstra.py
-__or__
-> python main_dwa.py
+<p> > python main_dijkstra.py </p>
+<p>__or__</p>
+<p> > python main_dwa.py</p>
